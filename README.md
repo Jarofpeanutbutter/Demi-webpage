@@ -91,8 +91,6 @@ under the guidance of Dr. Yoana Kyurkchieva, Demi quickly blossomed into a prodi
   <div class="image-container">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_laiMvm0W-twxEfCq7u2eQYas908eQaj9WKhaPD0zdEHE3Y=s900-c-k-c0x00ffffff-no-rj" alt="Demi Alba performing at Korea's Lotte Tower" width="500">
   </div>
-  
-  <script src="script.js"></script>
 </body>
 
 </html>
