@@ -20,6 +20,90 @@
     .sub {
       color : grey
     }
+    html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(167, 208, 249); 
+  font-family: Arial, sans-serif; 
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #0056b3; 
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  width: 100%;
+  display: block;
+  padding: 0 20px;
+  box-sizing: border-box;
+  line-height: 1.6; 
+}
+
+table {
+  text-align: center;
+  max-width: 800px;
+  margin: 20px auto; 
+  border-collapse: collapse; 
+}
+
+th, td {
+  padding: 10px; 
+  border: 1px solid #ddd; 
+}
+
+th {
+  background-color: #0056b3; 
+  color: white; 
+}
+
+tr:hover {
+  background-color: #ffffff; 
+}
+
+ul {
+  text-align: left;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
+}
+
+.sub {
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
+}
+
+.image-container {
+  margin: 20px 0;
+  text-align: center;
+}
+
+a {
+  color: #0056b3; 
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+
+td {
+  ;
+}
   </style>
   <link href="style.css" rel="stylesheet" type="text/css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.6.6/processing.min.js"></script>
